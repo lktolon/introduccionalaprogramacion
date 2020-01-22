@@ -1,0 +1,13 @@
+Algoritmo Ejercicio2
+	definir area, perimetro, altura, base como reales
+	Escribir "Inserte el valor de la base del triangulo";
+	leer base
+	Escribir "Inserte el valor de la altura del triangulo";
+	leer altura
+	
+	area <- base*altura;
+	perimetro <- base*2 + altura*2;
+	
+	Escribir "El área es " area " unidades cuadradas";
+	Escribir "El perimetro es " perimetro " unidades";
+FinAlgoritmo
