@@ -1,0 +1,6 @@
+Algoritmo Ejercicio1
+	definir nombre Como Caracter
+	Escribir "Digame su nombre";
+	leer nombre
+	Escribir"Buenos dias " nombre;
+FinAlgoritmo
