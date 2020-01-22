@@ -1,0 +1,12 @@
+Algoritmo ejercicio5
+	
+	Definir temp, sol como Reales
+	
+	Escribir "Escriba el valor de la temperatura a convertir";
+	leer temp
+	
+	sol <- (temp-32)*(5/9)
+	
+	Escribir "La solucion es " sol " grados celsius";
+	
+FinAlgoritmo
