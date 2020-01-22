@@ -1,0 +1,14 @@
+Algoritmo ejercicio3
+	
+	definir catmay, catmen, hip como Reales
+	
+	Escribir "Introduzca el valor del cateto mayor";
+	leer catmay
+	Escribir "Introduzca el valor del cateto menor";
+	leer catmen
+	
+	hip <- raiz(catmay*catmay + catmen*catmen)
+	
+	Escribir "La hipotenusa del triangulo es igual a" hip "unidades";
+	
+FinAlgoritmo
