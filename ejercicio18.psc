@@ -9,9 +9,9 @@ Algoritmo ejercicio18
 	Escribir "Escriba su segundo apellido:"
 	leer ape2
 	
-	iniciales <- subcadena(nombre,0,0)
-	iniciales <- concatenar(iniciales, subcadena(ape1,0,0))
-	iniciales <- concatenar(iniciales, subcadena(ape2,0,0))
+	iniciales <- subcadena(nombre,1,1)
+	iniciales <- concatenar(iniciales, subcadena(ape1,1,1))
+	iniciales <- concatenar(iniciales, subcadena(ape2,1,1))
 
 	Escribir "Las iniciales son: " iniciales
 	
